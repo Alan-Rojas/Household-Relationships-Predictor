@@ -1,1 +1,5 @@
 # Household-Relationships-Predictor
+
+INEGI is a public organization in Mexico focused on statistical analysis regarding the mexican population. It provides insights about patterns that might be hidden inside all the data they collect. These collected data comes from several national anual census, these census serve different purposes. 
+The census used in this project is called ENDIREH, its translation to english would be something like: National Poll for Dinamics in Household Relationships. Meaning, this data tries to explian how the dinamic of relations work in mexican homes (we can understand this as how safe a members of a family feel in their home regarding the other embers). Knowing this, a project, using Machine Learning methods to predict if a woman were to be endangered in her home, was created. Details on the data used will be showed above, including the datasets (shared because its public information) the data dictionaries; code and a written article deeply explaining both methodology and results, *note this article was written in spanish*
+
